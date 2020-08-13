@@ -27,23 +27,20 @@
 	<!-- mybatis mapper 설정 관련 (사용시 Namespace 탭에서 mybatis-spring추가하기) -->
 	<mybatis-spring:scan base-package="com.bit.mapper" />
 	
-	<!-- Naver 사용: smtp 사용가능하도록 설정확인 할 것 -->
-  	<!-- Naver 설정 : https://mail.naver.com/option/imap -->
-  	<bean id="mailSender" class="org.springframework.mail.javamail.JavaMailSenderImpl">
-	    <property name="host" value="smtp.naver.com" />
-        <property name="port" value="465" />
-        <property name="username" value="ccomajun@naver.com" />
-        <property name="password" value="1925ghwnswjs1!" />
+	<!-- Gmail 사용 -->
+	<!-- Authentication failed에러 발생시 구글계정 -> 보안 -> 보안 수준이 낮은 앱의 액세스에 대해 사용을 허가해주면 된다. -->
+	<bean id="mailSender" class="org.springframework.mail.javamail.JavaMailSenderImpl">
+	    <property name="host" value="smtp.gmail.com" />
+        <property name="port" value="587" />
+        <property name="username" value="myakkbird@gmail.com" />
+        <property name="password" value="!jhgutnv3657" />
         <property name="javaMailProperties">
             <props>
+                <prop key="mail.smtp.auth">true</prop>
                 <prop key="mail.smtp.starttls.enable">true</prop>
-			    <prop key="mail.smtp.auth">true</prop>
-			    <prop key="mail.smtps.ssl.checkserveridentity">true</prop>
-			    <prop key="mail.smtps.ssl.trust">*</prop>
-			    <prop key="mail.debug">true</prop>
-			    <prop key="mail.smtp.socketFactory.class">javax.net.ssl.SSLSocketFactory</prop>
+                <prop key="mail.smtp.quitwait">false</prop>
             </props>
         </property>
   	</bean>
-		
+  	
 </beans>
