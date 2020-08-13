@@ -176,7 +176,7 @@ function addmarker(index, listData) {
       		if (status === kakao.maps.services.Status.OK) {
       			var coords = new kakao.maps.LatLng(result[0].y, result[0].x);
       			
-      			var imageSrc = './resources/image/crocodile_profile_marker.png',   
+      			var imageSrc = './resources/image/etc/crocodile_marker.png',   
       			imageSize = new kakao.maps.Size(35, 35);
       			  
       			var markerImage = new kakao.maps.MarkerImage(imageSrc, imageSize);
@@ -242,7 +242,7 @@ function list_index(index, item, startNo) {
 	output += '    <div class="post_top">'
 	output += '        <strong>'+item.b_subject+'</strong>'
   	output += '            <span class="post_top_span">'+category_d+''	
-  	output += '                <img class="post_top_img" src="./resources/image/'+img_d+'">'
+  	output += '                <img class="post_top_img" src="./resources/image/category/'+img_d+'">'
   	output += '            </span>'
   	output += '	       <hr class="post_hr">'
   	output += '    </div>'

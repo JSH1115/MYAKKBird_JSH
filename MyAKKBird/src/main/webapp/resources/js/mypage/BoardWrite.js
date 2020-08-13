@@ -48,7 +48,7 @@ function reset_form() {
         this.reset();
     });
 	
-	img_ul += '<img class="default_img" src="./resources/image/img_default.png">'
+	img_ul += '<img class="default_img" src="./resources/image/etc/img_default.png">'
 	img_ul += '<ul id="img_ul"></ul>'
 	
 	$("#img_ul").empty();

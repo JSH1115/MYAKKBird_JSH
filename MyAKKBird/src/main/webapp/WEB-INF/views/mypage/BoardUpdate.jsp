@@ -33,7 +33,7 @@
 <meta charset="UTF-8">
 	<title>마이악어새 게시글 수정</title>
 	<!-- favicon 적용 -->
-	<link type="image/x-icon" rel="icon" href="./resources/image/akk_favicon.png">
+	<link type="image/x-icon" rel="icon" href="./resources/image/etc/akk_favicon.png">
 	<!-- favicon 적용 -->
 	<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 	<!-- alert창 API 시작 -->
@@ -46,7 +46,7 @@
 	<script src="https://t1.daumcdn.net/mapjsapi/bundle/postcode/prod/postcode.v2.js"></script>
 	<!-- 다음 주소 API 끝 -->
 	<!-- 카카오 맵 API 시작 -->
-	<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=3cbd93568d5ed61c52a1851035124ae3&libraries=services"></script>
+  	<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=99961aed8242e20f8ef130c540204602&libraries=services"></script>
 	<!-- 카카오 맵 API 끝 -->
 	<!-- BoardUpdate.css style 파일 -->
 	<link rel="stylesheet" type="text/css" href="./resources/css/mypage/BoardUpdate.css">
@@ -375,7 +375,7 @@
 							</ul>
 						</div>
 						<div class="img_div" id="image_container">
-							<img class="default_img" src="./resources/image/img_default.png">
+							<img class="default_img" src="./resources/image/etc/img_default.png">
 							<ul id="img_ul">
 							</ul>
 						</div>

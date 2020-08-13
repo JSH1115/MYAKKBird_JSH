@@ -260,11 +260,11 @@ $('#detail_btn').click(function() {
 			'<div class="info_profile">' +
 			'    <span id="m_span">사진을 정하지 않으면!</span>' +
 			'    <div class="left_zone">' +
-			'        <img class="info_img" src="resources/image/crocodile_profile.png"><br>' +
+			'        <img class="info_img" src="resources/image/default_profile/crocodile_profile.png"><br>' +
 			'        <b id="point_txt">고객</b><br> <b>기본 프로필 사진</b>' +
 			'    </div>' +
 			'    <div class="right_zone">' +
-			'        <img class="info_img" src="resources/image/bird_profile.png"><br>' +
+			'        <img class="info_img" src="resources/image/default_profile/bird_profile.png"><br>' +
 			'        <b id="point_txt">근로자</b><br> <b>기본 프로필 사진</b>' +
 			'    </div>' +
 			'</div>' +

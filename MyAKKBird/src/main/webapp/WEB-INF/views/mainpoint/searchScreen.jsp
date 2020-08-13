@@ -15,7 +15,7 @@
 	<meta charset="UTF-8">
 	<title>마이악어새 악어 찾기</title>
 	<!-- favicon 적용 -->
-	<link type="image/x-icon" rel="icon" href="./resources/image/akk_favicon.png">
+	<link type="image/x-icon" rel="icon" href="./resources/image/etc/akk_favicon.png">
 	<!-- favicon 적용 -->
   	<!-- jQuery 자동 완성 -->
 	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
@@ -24,7 +24,7 @@
   	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
   	<!-- jQuery 자동 완성 -->
   	<!-- 카카오 지도 API 시작 -->
-  	<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=3cbd93568d5ed61c52a1851035124ae3&libraries=services"></script>
+  	<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=99961aed8242e20f8ef130c540204602&libraries=services"></script>
   	<!-- 카카오 지도 API 끝 -->
   	<!-- 시간 설정 API 시작 -->
   	<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.0/moment.min.js"></script>

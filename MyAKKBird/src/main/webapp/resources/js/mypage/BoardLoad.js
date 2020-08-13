@@ -91,7 +91,7 @@ function board_list(index, item, startNo) {
 	output += '            <span class="photo_span" id="count'+item.b_num+'"></span>'
 	output += '        </div>'
 	output += '        <div class="post_center">'
-	output += '            <span class="post_subject"><b>'+item.b_subject+'</b></span><b class="b_cate">'+category_d+'<img class="post_img" src="./resources/image/'+img_d+'"></b><br>'
+	output += '            <span class="post_subject"><b>'+item.b_subject+'</b></span><b class="b_cate">'+category_d+'<img class="post_img" src="./resources/image/category/'+img_d+'"></b><br>'
 	output += '            <span><b>신청여부</b> '+apply+'</span><br>'
 	output += '            <span><b>청소시작</b> '+startDay+'</span><br>'
 	output += '            <span><b>지번주소</b> '+item.b_address_road+'</span><span class="span_date"><b>조회</b> '+item.b_readcount+'</span><br>'

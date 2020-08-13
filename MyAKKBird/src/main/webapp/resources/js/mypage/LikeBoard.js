@@ -120,7 +120,7 @@ function list_index(index, item, startNo) {
 	output += '    <div class="post_top">'
 	output += '        <strong>'+item.b_subject+'</strong>'
   	output += '            <span class="post_top_span">'+category_d+''	
-  	output += '                <img class="post_top_img" src="./resources/image/'+img_d+'">'
+  	output += '                <img class="post_top_img" src="./resources/image/category/'+img_d+'">'
   	output += '            </span>'
   	output += '	       <hr class="post_hr">'
   	output += '    </div>'

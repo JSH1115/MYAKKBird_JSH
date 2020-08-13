@@ -170,78 +170,78 @@ label {
 input[type="checkbox"] + label .chk_img {
 	width: 100px;
 	height:100px;
-	background:url("../../image/vacuum.png")no-repeat;
+	background:url("../../image/category/vacuum.png")no-repeat;
 	background-size:100px 100px;
 	cursor:pointer;  
 }
 
 input[type="checkbox"]:checked + label .chk_img {
-	background:url("../../image/vacuum_check1.png")no-repeat;
+	background:url("../../image/category/vacuum_check.png")no-repeat;
 	background-size:100px 100px;
 } 
 
 input[type="checkbox"] + label .chk2_img {
 	width: 100px;
 	height:100px;
-	background:url("../../image/cleaning-tools.png")no-repeat;
+	background:url("../../image/category/cleaning-tools.png")no-repeat;
 	background-size:100px 100px;
 	cursor:pointer;  
 }
 
 input[type="checkbox"]:checked + label .chk2_img {
-	background:url("../../image/cleaning-tools_check.png")no-repeat;
+	background:url("../../image/category/cleaning-tools_check.png")no-repeat;
 	background-size:100px 100px;
 } 
 
 input[type="checkbox"] + label .chk3_img {
 	width: 100px;
 	height:100px;
-	background:url("../../image/kitchen.png")no-repeat;
+	background:url("../../image/category/kitchen.png")no-repeat;
 	background-size:100px 100px;
 	cursor:pointer;  
 }
 
 input[type="checkbox"]:checked + label .chk3_img {
-	background:url("../../image/kitchen_check.png")no-repeat;
+	background:url("../../image/category/kitchen_check.png")no-repeat;
 	background-size:100px 100px;
 } 
 
 input[type="checkbox"] + label .chk4_img {
 	width: 100px;
 	height: 100px;
-	background:url("../../image/maid.png")no-repeat;
+	background:url("../../image/category/maid.png")no-repeat;
 	background-size:100px 100px;
 	cursor:pointer;  
 }
 
 input[type="checkbox"]:checked + label .chk4_img {
-	background:url("../../image/maid_check.png")no-repeat;
+	background:url("../../image/category/maid_check.png")no-repeat;
 	background-size:100px 100px; 
 } 
 
 input[type="checkbox"] + label .chk5_img {
 	width: 100px;
 	height: 100px;
-	background:url("../../image/apartment.png")no-repeat;
+	background:url("../../image/category/apartment.png")no-repeat;
 	background-size:100px 100px;
 	cursor:pointer;  
 }
 
 input[type="checkbox"]:checked + label .chk5_img {
-	background:url("../../image/apartment_check.png")no-repeat;
+	background:url("../../image/category/apartment_check.png")no-repeat;
 	background-size:100px 100px; 
 } 
 
 input[type="checkbox"] + label .chk6_img {
 	width: 100px;
 	height: 100px;
-	background:url("../../image/coronavirus.png")no-repeat;
+	background:url("../../image/category/coronavirus.png")no-repeat;
 	background-size:100px 100px;
 	cursor:pointer;  
 }
 
 input[type="checkbox"]:checked + label .chk6_img {
-	background:url("../../image/coronavirus_check.png")no-repeat;
+	background:url("../../image/category/coronavirus_check.png")no-repeat;
 	background-size:100px 100px; 
 } 
 

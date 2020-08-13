@@ -147,7 +147,7 @@ input[type="radio"] + label .b_category1 {
 	cursor: pointer; 
 	width: 50px;
 	height: 50px;
-	background: url("../../image/vacuum.png");
+	background: url("../../image/category/vacuum.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
@@ -155,7 +155,7 @@ input[type="radio"] + label .b_category1 {
 input[type="radio"]:checked + label .b_category1 { 
 	width: 50px;
 	height: 50px;
-	background: url("../../image/vacuum_check1.png");
+	background: url("../../image/category/vacuum_check.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
@@ -165,7 +165,7 @@ input[type="radio"] + label .b_category2 {
 	width: 50px;
 	height: 50px;
 	margin-left: 30px;
-	background: url("../../image/cleaning-tools.png");
+	background: url("../../image/category/cleaning-tools.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
@@ -173,7 +173,7 @@ input[type="radio"] + label .b_category2 {
 input[type="radio"]:checked + label .b_category2 { 
 	width: 50px;
 	height: 50px;
-	background: url("../../image/cleaning-tools_check.png");
+	background: url("../../image/category/cleaning-tools_check.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
@@ -184,7 +184,7 @@ input[type="radio"] + label .b_category3 {
 	height: 50px;
 	margin-left: 35px;
 	padding-left: 5px;
-	background: url("../../image/kitchen.png");
+	background: url("../../image/category/kitchen.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
@@ -192,7 +192,7 @@ input[type="radio"] + label .b_category3 {
 input[type="radio"]:checked + label .b_category3 { 
 	width: 50px;
 	height: 50px;
-	background: url("../../image/kitchen_check.png");
+	background: url("../../image/category/kitchen_check.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
@@ -203,7 +203,7 @@ input[type="radio"] + label .b_category4 {
 	height: 50px;
 	margin-left: 30px;
 	padding-left: 5px;
-	background: url("../../image/maid.png");
+	background: url("../../image/category/maid.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
@@ -211,7 +211,7 @@ input[type="radio"] + label .b_category4 {
 input[type="radio"]:checked + label .b_category4 { 
 	width: 50px;
 	height: 50px;
-	background: url("../../image/maid_check.png");
+	background: url("../../image/category/maid_check.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
@@ -222,7 +222,7 @@ input[type="radio"] + label .b_category5 {
 	height: 50px;
 	margin-left: 30px;
 	padding-left: 5px;
-	background: url("../../image/apartment.png");
+	background: url("../../image/category/apartment.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
@@ -230,7 +230,7 @@ input[type="radio"] + label .b_category5 {
 input[type="radio"]:checked + label .b_category5 { 
 	width: 50px;
 	height: 50px;
-	background: url("../../image/apartment_check.png");
+	background: url("../../image/category/apartment_check.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
@@ -240,7 +240,7 @@ input[type="radio"] + label .b_category6 {
 	width: 50px;
 	height: 50px;
 	margin-left: 30px;
-	background: url("../../image/coronavirus.png");
+	background: url("../../image/category/coronavirus.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
@@ -248,7 +248,7 @@ input[type="radio"] + label .b_category6 {
 input[type="radio"]:checked + label .b_category6 { 
 	width: 50px;
 	height: 50px;
-	background: url("../../image/coronavirus_check.png");
+	background: url("../../image/category/coronavirus_check.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
@@ -602,7 +602,7 @@ input[type="file"] {
 	height: 150px;
 	border: 1px solid #37B04B;
 	border-radius: 10px;
-	background-image: url("../../image/advr_l.png");
+	background-image: url("../../image/banner/advr_l.png");
 	background-repeat: no-repeat;
 	background-size: 800px 150px;
 	cursor: pointer;

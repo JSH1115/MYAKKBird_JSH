@@ -11,7 +11,7 @@
 	<meta charset="UTF-8">
 	<title>마이악어새 찜 목록</title>
 	<!-- favicon 적용 -->
-	<link type="image/x-icon" rel="icon" href="./resources/image/akk_favicon.png">
+	<link type="image/x-icon" rel="icon" href="./resources/image/etc/akk_favicon.png">
 	<!-- favicon 적용 -->
 	<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 	<!-- 시간 설정 API 시작 -->

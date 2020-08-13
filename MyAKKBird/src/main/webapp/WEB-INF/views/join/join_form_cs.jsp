@@ -25,7 +25,7 @@
 	<meta charset="UTF-8">
 	<title>마이악어새 고객 회원가입</title>
 	<!-- favicon 적용 -->
-	<link type="image/x-icon" rel="icon" href="./resources/image/akk_favicon.png">
+	<link type="image/x-icon" rel="icon" href="./resources/image/etc/akk_favicon.png">
 	<!-- favicon 적용 -->
 	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 	<!-- alert창 API 시작 -->
@@ -56,7 +56,7 @@
 		</div>
 		<div class="img_div">
 			<div class="img_profile_div">
-			 	<img class="profile_img" id="image_section" src="resources/image/crocodile_profile.png"/><br>
+			 	<img class="profile_img" id="image_section" src="resources/image/default_profile/crocodile_profile.png"/><br>
 			 	<b>마이악어새 기본 프로필 사진</b>
 			 	<svg id="detail_btn" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 25 25"><g fill="none" fill-rule="evenodd"><g><circle cx="12.5" cy="12.5" r="12.5" fill="#BDBDBD"/><path fill="#FFF" d="M11.194 14.606c-.402-2.66 2.445-3.717 2.445-5.302 0-.826-.553-1.355-1.424-1.355-.737 0-1.323.38-1.859.925L9 7.652C9.87 6.677 11.06 6 12.517 6 14.527 6 16 7.024 16 9.139c0 2.345-2.914 3.138-2.663 5.467h-2.143zM12.266 19c-.871 0-1.524-.694-1.524-1.586 0-.892.653-1.586 1.524-1.586.887 0 1.54.694 1.54 1.586 0 .892-.653 1.586-1.54 1.586z"/></g><path d="M-176 23h375v30h-375z"/></g></svg>
 			 </div>

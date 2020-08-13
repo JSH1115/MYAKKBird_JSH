@@ -239,7 +239,7 @@ ul li {
 
 .search_form_text input {
 	margin-top: 5px;
-	background-image: url("../../image/search_icon.png");
+	background-image: url("../../image/etc/search_icon.png");
 	background-size: 30px 30px;
 	background-repeat: no-repeat;
 	border: 1px solid #808080;
@@ -285,7 +285,7 @@ input[type="radio"] + label .c1 {
 	cursor: pointer; 
 	width: 80px;
 	height: 30px;
-	background: url("../../image/radio_s.png");
+	background: url("../../image/radio_btn/radio_s.png");
 	background-repeat: no-repeat;
 	background-size: 80px 30px;
 }
@@ -294,7 +294,7 @@ input[type="radio"]:checked + label .c1 {
 	cursor: pointer;
 	width: 80px;
 	height: 30px;
-	background: url("../../image/radio_c_s.png");
+	background: url("../../image/radio_btn/radio_c_s.png");
 	background-repeat: no-repeat;
 	background-size: 80px 30px;
 }
@@ -303,7 +303,7 @@ input[type="radio"] + label .c2 {
 	cursor: pointer; 
 	width: 115px;
 	height: 30px;
-	background: url("../../image/radio_m.png");
+	background: url("../../image/radio_btn/radio_m.png");
 	background-repeat: no-repeat;
 	background-size: 115px 30px;
 }
@@ -312,7 +312,7 @@ input[type="radio"]:checked + label .c2 {
 	cursor: pointer;
 	width: 115px;
 	height: 30px;
-	background: url("../../image/radio_c_m.png");
+	background: url("../../image/radio_btn/radio_c_m.png");
 	background-repeat: no-repeat;
 	background-size: 115px 30px;
 }
@@ -321,7 +321,7 @@ input[type="radio"] + label .c3 {
 	cursor: pointer; 
 	width: 115px;
 	height: 30px;
-	background: url("../../image/radio_d.png");
+	background: url("../../image/radio_btn/radio_d.png");
 	background-repeat: no-repeat;
 	background-size: 115px 30px;
 }
@@ -330,7 +330,7 @@ input[type="radio"]:checked + label .c3 {
 	cursor: pointer;
 	width: 115px;
 	height: 30px;
-	background: url("../../image/radio_c_d.png");
+	background: url("../../image/radio_btn/radio_c_d.png");
 	background-repeat: no-repeat;
 	background-size: 115px 30px;
 }
@@ -380,14 +380,14 @@ input[type="checkbox"] + label .b_category1 {
 	width: 50px;
 	height: 50px;
 	margin-left: 98px;
-	background: url("../../image/vacuum.png");
+	background: url("../../image/category/vacuum.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
 input[type="checkbox"]:checked + label .b_category1 { 
 	width: 50px;
 	height: 50px;
-	background: url("../../image/vacuum_check1.png");
+	background: url("../../image/category/vacuum_check.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
@@ -397,14 +397,14 @@ input[type="checkbox"] + label .b_category2 {
 	width: 50px;
 	height: 50px;
 	margin-left: 15px;
-	background: url("../../image/cleaning-tools.png");
+	background: url("../../image/category/cleaning-tools.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
 input[type="checkbox"]:checked + label .b_category2 { 
 	width: 50px;
 	height: 50px;
-	background: url("../../image/cleaning-tools_check.png");
+	background: url("../../image/category/cleaning-tools_check.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
@@ -414,14 +414,14 @@ input[type="checkbox"] + label .b_category3 {
 	width: 50px;
 	height: 50px;
 	margin-left: 12px;
-	background: url("../../image/kitchen.png");
+	background: url("../../image/category/kitchen.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
 input[type="checkbox"]:checked + label .b_category3 { 
 	width: 50px;
 	height: 50px;
-	background: url("../../image/kitchen_check.png");
+	background: url("../../image/category/kitchen_check.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
@@ -431,14 +431,14 @@ input[type="checkbox"] + label .b_category4 {
 	width: 50px;
 	height: 50px;
 	margin-left: 17px;
-	background: url("../../image/maid.png");
+	background: url("../../image/category/maid.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
 input[type="checkbox"]:checked + label .b_category4 { 
 	width: 50px;
 	height: 50px;
-	background: url("../../image/maid_check.png");
+	background: url("../../image/category/maid_check.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
@@ -448,14 +448,14 @@ input[type="checkbox"] + label .b_category5 {
 	width: 50px;
 	height: 50px;
 	margin-left: 11px;
-	background: url("../../image/apartment.png");
+	background: url("../../image/category/apartment.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
 input[type="checkbox"]:checked + label .b_category5 { 
 	width: 50px;
 	height: 50px;
-	background: url("../../image/apartment_check.png");
+	background: url("../../image/category/apartment_check.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
@@ -465,14 +465,14 @@ input[type="checkbox"] + label .b_category6 {
 	width: 50px;
 	height: 50px;
 	margin-left: 15px;
-	background: url("../../image/coronavirus.png");
+	background: url("../../image/category/coronavirus.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
 input[type="checkbox"]:checked + label .b_category6 { 
 	width: 50px;
 	height: 50px;
-	background: url("../../image/coronavirus_check.png");
+	background: url("../../image/category/coronavirus_check.png");
 	background-repeat: no-repeat;
 	background-size: 50px 50px;
 }
@@ -733,7 +733,7 @@ input[type="checkbox"]:checked + label .b_category6 {
 	margin-bottom:15px;
 	background-color: white;
 	border-radius: 10px;
-	background-image: url("../../image/advr_s.png");
+	background-image: url("../../image/banner/advr_s.png");
 	background-repeat: no-repeat;
 	background-size: 520px 150px;
 	cursor: pointer;
